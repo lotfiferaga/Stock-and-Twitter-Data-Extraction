@@ -1,1 +1,1 @@
-# Stock-and-Twitter-Data-Extraction
+# Stock and Twitter Data Extraction
